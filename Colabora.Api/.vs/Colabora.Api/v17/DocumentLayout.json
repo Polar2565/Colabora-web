@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0362EAC6-B077-46F9-8390-3533B369B0A0}|Colabora.Api\\Colabora.Api.csproj|c:\\users\\solis\\onedrive\\desktop\\colaboraweb\\colabora.api\\colabora.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0362EAC6-B077-46F9-8390-3533B369B0A0}|Colabora.Api\\Colabora.Api.csproj|solutionrelative:colabora.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0362EAC6-B077-46F9-8390-3533B369B0A0}|Colabora.Api\\Colabora.Api.csproj|c:\\users\\solis\\onedrive\\desktop\\colaboraweb\\colabora.api\\colabora.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0362EAC6-B077-46F9-8390-3533B369B0A0}|Colabora.Api\\Colabora.Api.csproj|solutionrelative:colabora.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0362EAC6-B077-46F9-8390-3533B369B0A0}|Colabora.Api\\Colabora.Api.csproj|c:\\users\\solis\\onedrive\\desktop\\colaboraweb\\colabora.api\\colabora.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0362EAC6-B077-46F9-8390-3533B369B0A0}|Colabora.Api\\Colabora.Api.csproj|solutionrelative:colabora.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0362EAC6-B077-46F9-8390-3533B369B0A0}|Colabora.Api\\Colabora.Api.csproj|c:\\users\\solis\\onedrive\\desktop\\colaboraweb\\colabora.api\\colabora.api\\controllers\\applicationdocumentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0362EAC6-B077-46F9-8390-3533B369B0A0}|Colabora.Api\\Colabora.Api.csproj|solutionrelative:colabora.api\\controllers\\applicationdocumentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0362EAC6-B077-46F9-8390-3533B369B0A0}|Colabora.Api\\Colabora.Api.csproj|c:\\users\\solis\\onedrive\\desktop\\colaboraweb\\colabora.api\\colabora.api\\controllers\\applicationcommentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0362EAC6-B077-46F9-8390-3533B369B0A0}|Colabora.Api\\Colabora.Api.csproj|solutionrelative:colabora.api\\controllers\\applicationcommentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0362EAC6-B077-46F9-8390-3533B369B0A0}|Colabora.Api\\Colabora.Api.csproj|c:\\users\\solis\\onedrive\\desktop\\colaboraweb\\colabora.api\\colabora.api\\models\\applicationcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0362EAC6-B077-46F9-8390-3533B369B0A0}|Colabora.Api\\Colabora.Api.csproj|solutionrelative:colabora.api\\models\\applicationcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0362EAC6-B077-46F9-8390-3533B369B0A0}|Colabora.Api\\Colabora.Api.csproj|c:\\users\\solis\\onedrive\\desktop\\colaboraweb\\colabora.api\\colabora.api\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0362EAC6-B077-46F9-8390-3533B369B0A0}|Colabora.Api\\Colabora.Api.csproj|solutionrelative:colabora.api\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0362EAC6-B077-46F9-8390-3533B369B0A0}|Colabora.Api\\Colabora.Api.csproj|c:\\users\\solis\\onedrive\\desktop\\colaboraweb\\colabora.api\\colabora.api\\models\\applicationdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0362EAC6-B077-46F9-8390-3533B369B0A0}|Colabora.Api\\Colabora.Api.csproj|solutionrelative:colabora.api\\models\\applicationdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0362EAC6-B077-46F9-8390-3533B369B0A0}|Colabora.Api\\Colabora.Api.csproj|c:\\users\\solis\\onedrive\\desktop\\colaboraweb\\colabora.api\\colabora.api\\controllers\\applicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0362EAC6-B077-46F9-8390-3533B369B0A0}|Colabora.Api\\Colabora.Api.csproj|solutionrelative:colabora.api\\controllers\\applicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0362EAC6-B077-46F9-8390-3533B369B0A0}|Colabora.Api\\Colabora.Api.csproj|c:\\users\\solis\\onedrive\\desktop\\colaboraweb\\colabora.api\\colabora.api\\data\\colaboradbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0362EAC6-B077-46F9-8390-3533B369B0A0}|Colabora.Api\\Colabora.Api.csproj|solutionrelative:colabora.api\\data\\colaboradbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0362EAC6-B077-46F9-8390-3533B369B0A0}|Colabora.Api\\Colabora.Api.csproj|c:\\users\\solis\\onedrive\\desktop\\colaboraweb\\colabora.api\\colabora.api\\models\\loginlockout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0362EAC6-B077-46F9-8390-3533B369B0A0}|Colabora.Api\\Colabora.Api.csproj|solutionrelative:colabora.api\\models\\loginlockout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0362EAC6-B077-46F9-8390-3533B369B0A0}|Colabora.Api\\Colabora.Api.csproj|c:\\users\\solis\\onedrive\\desktop\\colaboraweb\\colabora.api\\colabora.api\\models\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0362EAC6-B077-46F9-8390-3533B369B0A0}|Colabora.Api\\Colabora.Api.csproj|solutionrelative:colabora.api\\models\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0362EAC6-B077-46F9-8390-3533B369B0A0}|Colabora.Api\\Colabora.Api.csproj|c:\\users\\solis\\onedrive\\desktop\\colaboraweb\\colabora.api\\colabora.api\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0362EAC6-B077-46F9-8390-3533B369B0A0}|Colabora.Api\\Colabora.Api.csproj|solutionrelative:colabora.api\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0362EAC6-B077-46F9-8390-3533B369B0A0}|Colabora.Api\\Colabora.Api.csproj|c:\\users\\solis\\onedrive\\desktop\\colaboraweb\\colabora.api\\colabora.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0362EAC6-B077-46F9-8390-3533B369B0A0}|Colabora.Api\\Colabora.Api.csproj|solutionrelative:colabora.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0362EAC6-B077-46F9-8390-3533B369B0A0}|Colabora.Api\\Colabora.Api.csproj|c:\\users\\solis\\onedrive\\desktop\\colaboraweb\\colabora.api\\colabora.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0362EAC6-B077-46F9-8390-3533B369B0A0}|Colabora.Api\\Colabora.Api.csproj|solutionrelative:colabora.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0362EAC6-B077-46F9-8390-3533B369B0A0}|Colabora.Api\\Colabora.Api.csproj|c:\\users\\solis\\onedrive\\desktop\\colaboraweb\\colabora.api\\colabora.api\\models\\expediente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0362EAC6-B077-46F9-8390-3533B369B0A0}|Colabora.Api\\Colabora.Api.csproj|solutionrelative:colabora.api\\models\\expediente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0362EAC6-B077-46F9-8390-3533B369B0A0}|Colabora.Api\\Colabora.Api.csproj|c:\\users\\solis\\onedrive\\desktop\\colaboraweb\\colabora.api\\colabora.api\\models\\recaptchaverifyresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0362EAC6-B077-46F9-8390-3533B369B0A0}|Colabora.Api\\Colabora.Api.csproj|solutionrelative:colabora.api\\models\\recaptchaverifyresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0362EAC6-B077-46F9-8390-3533B369B0A0}|Colabora.Api\\Colabora.Api.csproj|c:\\users\\solis\\onedrive\\desktop\\colaboraweb\\colabora.api\\colabora.api\\services\\passwordpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0362EAC6-B077-46F9-8390-3533B369B0A0}|Colabora.Api\\Colabora.Api.csproj|solutionrelative:colabora.api\\services\\passwordpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0362EAC6-B077-46F9-8390-3533B369B0A0}|Colabora.Api\\Colabora.Api.csproj|c:\\users\\solis\\onedrive\\desktop\\colaboraweb\\colabora.api\\colabora.api\\services\\recaptchaverifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0362EAC6-B077-46F9-8390-3533B369B0A0}|Colabora.Api\\Colabora.Api.csproj|solutionrelative:colabora.api\\services\\recaptchaverifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0362EAC6-B077-46F9-8390-3533B369B0A0}|Colabora.Api\\Colabora.Api.csproj|c:\\users\\solis\\onedrive\\desktop\\colaboraweb\\colabora.api\\colabora.api\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0362EAC6-B077-46F9-8390-3533B369B0A0}|Colabora.Api\\Colabora.Api.csproj|solutionrelative:colabora.api\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0362EAC6-B077-46F9-8390-3533B369B0A0}|Colabora.Api\\Colabora.Api.csproj|c:\\users\\solis\\onedrive\\desktop\\colaboraweb\\colabora.api\\colabora.api\\models\\googlerecaptchasettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0362EAC6-B077-46F9-8390-3533B369B0A0}|Colabora.Api\\Colabora.Api.csproj|solutionrelative:colabora.api\\models\\googlerecaptchasettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationCommentsController.cs",
+              "DocumentMoniker": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\Colabora.Api\\Controllers\\ApplicationCommentsController.cs",
+              "RelativeDocumentMoniker": "Colabora.Api\\Controllers\\ApplicationCommentsController.cs",
+              "ToolTip": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\Colabora.Api\\Controllers\\ApplicationCommentsController.cs",
+              "RelativeToolTip": "Colabora.Api\\Controllers\\ApplicationCommentsController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAUwIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T01:21:31.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDocumentsController.cs",
+              "DocumentMoniker": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\Colabora.Api\\Controllers\\ApplicationDocumentsController.cs",
+              "RelativeDocumentMoniker": "Colabora.Api\\Controllers\\ApplicationDocumentsController.cs",
+              "ToolTip": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\Colabora.Api\\Controllers\\ApplicationDocumentsController.cs",
+              "RelativeToolTip": "Colabora.Api\\Controllers\\ApplicationDocumentsController.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAUwOoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T00:32:52.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\Colabora.Api\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Colabora.Api\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\Colabora.Api\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Colabora.Api\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAUwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T04:12:44.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\Colabora.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Colabora.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\Colabora.Api\\appsettings.json",
+              "RelativeToolTip": "Colabora.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-20T03:39:24.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\Colabora.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Colabora.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\Colabora.Api\\Program.cs",
+              "RelativeToolTip": "Colabora.Api\\Program.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAiwJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T03:37:13.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationsController.cs",
+              "DocumentMoniker": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\Colabora.Api\\Controllers\\ApplicationsController.cs",
+              "RelativeDocumentMoniker": "Colabora.Api\\Controllers\\ApplicationsController.cs",
+              "ToolTip": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\Colabora.Api\\Controllers\\ApplicationsController.cs",
+              "RelativeToolTip": "Colabora.Api\\Controllers\\ApplicationsController.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAQwB4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T00:08:34.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationComment.cs",
+              "DocumentMoniker": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\Colabora.Api\\Models\\ApplicationComment.cs",
+              "RelativeDocumentMoniker": "Colabora.Api\\Models\\ApplicationComment.cs",
+              "ToolTip": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\Colabora.Api\\Models\\ApplicationComment.cs",
+              "RelativeToolTip": "Colabora.Api\\Models\\ApplicationComment.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T00:23:00.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\Colabora.Api\\Models\\Application.cs",
+              "RelativeDocumentMoniker": "Colabora.Api\\Models\\Application.cs",
+              "ToolTip": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\Colabora.Api\\Models\\Application.cs",
+              "RelativeToolTip": "Colabora.Api\\Models\\Application.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T23:59:13.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserSession.cs",
+              "DocumentMoniker": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\Colabora.Api\\Models\\UserSession.cs",
+              "RelativeDocumentMoniker": "Colabora.Api\\Models\\UserSession.cs",
+              "ToolTip": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\Colabora.Api\\Models\\UserSession.cs",
+              "RelativeToolTip": "Colabora.Api\\Models\\UserSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T23:25:06.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginLockout.cs",
+              "DocumentMoniker": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\Colabora.Api\\Models\\LoginLockout.cs",
+              "RelativeDocumentMoniker": "Colabora.Api\\Models\\LoginLockout.cs",
+              "ToolTip": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\Colabora.Api\\Models\\LoginLockout.cs",
+              "RelativeToolTip": "Colabora.Api\\Models\\LoginLockout.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T23:25:20.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDocument.cs",
+              "DocumentMoniker": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\Colabora.Api\\Models\\ApplicationDocument.cs",
+              "RelativeDocumentMoniker": "Colabora.Api\\Models\\ApplicationDocument.cs",
+              "ToolTip": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\Colabora.Api\\Models\\ApplicationDocument.cs",
+              "RelativeToolTip": "Colabora.Api\\Models\\ApplicationDocument.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T00:22:37.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\Colabora.Api\\Models\\AuditLog.cs",
+              "RelativeDocumentMoniker": "Colabora.Api\\Models\\AuditLog.cs",
+              "ToolTip": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\Colabora.Api\\Models\\AuditLog.cs",
+              "RelativeToolTip": "Colabora.Api\\Models\\AuditLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T23:24:48.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\Colabora.Api\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Colabora.Api\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\Colabora.Api\\Models\\User.cs",
+              "RelativeToolTip": "Colabora.Api\\Models\\User.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T23:01:37.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Expediente.cs",
+              "DocumentMoniker": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\Colabora.Api\\Models\\Expediente.cs",
+              "RelativeDocumentMoniker": "Colabora.Api\\Models\\Expediente.cs",
+              "ToolTip": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\Colabora.Api\\Models\\Expediente.cs",
+              "RelativeToolTip": "Colabora.Api\\Models\\Expediente.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAA1wFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T23:46:52.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ColaboraDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\Colabora.Api\\Data\\ColaboraDbContext.cs",
+              "RelativeDocumentMoniker": "Colabora.Api\\Data\\ColaboraDbContext.cs",
+              "ToolTip": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\Colabora.Api\\Data\\ColaboraDbContext.cs",
+              "RelativeToolTip": "Colabora.Api\\Data\\ColaboraDbContext.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAUwLcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T03:34:14.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\Colabora.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Colabora.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\Colabora.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Colabora.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAJwBAAAAAAAAAAAgwLcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T03:42:33.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReCaptchaVerifyResponse.cs",
+              "DocumentMoniker": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\Colabora.Api\\Models\\ReCaptchaVerifyResponse.cs",
+              "RelativeDocumentMoniker": "Colabora.Api\\Models\\ReCaptchaVerifyResponse.cs",
+              "ToolTip": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\Colabora.Api\\Models\\ReCaptchaVerifyResponse.cs",
+              "RelativeToolTip": "Colabora.Api\\Models\\ReCaptchaVerifyResponse.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T13:43:28.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReCaptchaVerifier.cs",
+              "DocumentMoniker": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\Colabora.Api\\Services\\ReCaptchaVerifier.cs",
+              "RelativeDocumentMoniker": "Colabora.Api\\Services\\ReCaptchaVerifier.cs",
+              "ToolTip": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\Colabora.Api\\Services\\ReCaptchaVerifier.cs",
+              "RelativeToolTip": "Colabora.Api\\Services\\ReCaptchaVerifier.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvy0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T13:44:44.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PasswordPolicy.cs",
+              "DocumentMoniker": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\Colabora.Api\\Services\\PasswordPolicy.cs",
+              "RelativeDocumentMoniker": "Colabora.Api\\Services\\PasswordPolicy.cs",
+              "ToolTip": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\Colabora.Api\\Services\\PasswordPolicy.cs",
+              "RelativeToolTip": "Colabora.Api\\Services\\PasswordPolicy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T21:07:12.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\Colabora.Api\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Colabora.Api\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\Colabora.Api\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "Colabora.Api\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T13:43:48.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GoogleReCaptchaSettings.cs",
+              "DocumentMoniker": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\Colabora.Api\\Models\\GoogleReCaptchaSettings.cs",
+              "RelativeDocumentMoniker": "Colabora.Api\\Models\\GoogleReCaptchaSettings.cs",
+              "ToolTip": "C:\\Users\\solis\\OneDrive\\Desktop\\ColaboraWeb\\Colabora.Api\\Colabora.Api\\Models\\GoogleReCaptchaSettings.cs",
+              "RelativeToolTip": "Colabora.Api\\Models\\GoogleReCaptchaSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T13:42:55.808Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
